@@ -56,7 +56,7 @@ public class CasoInventario {
         
         if (desc1 == 0.20) {
             valor = "20% (Cantidad mayor a 100)";
-        } else if (desc1 == 1.10) {
+        } else if (desc1 == 0.10) {
             valor = "10% (Cantidad mayor a 50)";
         }else {
             valor = "No hay descuento (Cantidad menor o igual a 50)";
@@ -107,7 +107,7 @@ public class CasoInventario {
         
         if (desc2 == 0.20) {
             valor = "20% (Cantidad mayor a 100)";
-        } else if (desc2 == 1.10) {
+        } else if (desc2 == 0.10) {
             valor = "10% (Cantidad mayor a 50)";
         }else {
             valor = "No hay descuento (Cantidad menor o igual a 50)";
@@ -158,7 +158,7 @@ public class CasoInventario {
 
         if (desc3 == 0.20) {
             valor = "20% (Cantidad mayor a 100)";
-        } else if (desc3 == 1.10) {
+        } else if (desc3 == 0.10) {
             valor = "10% (Cantidad mayor a 50)";
         }else {
             valor = "No hay descuento (Cantidad menor o igual a 50)";
@@ -209,7 +209,7 @@ public class CasoInventario {
 
         if (desc4 == 0.20) {
             valor = "20% (Cantidad mayor a 100)";
-        } else if (desc4 == 1.10) {
+        } else if (desc4 == 0.10) {
             valor = "10% (Cantidad mayor a 50)";
         }else {
             valor = "No hay descuento (Cantidad menor o igual a 50)";
@@ -259,7 +259,7 @@ public class CasoInventario {
 
         if (desc5 == 0.20) {
             valor = "20% (Cantidad mayor a 100)";
-        } else if (desc5 == 1.10) {
+        } else if (desc5 == 0.10) {
             valor = "10% (Cantidad mayor a 50)";
         }else {
             valor = "No hay descuento (Cantidad menor o igual a 50)";
